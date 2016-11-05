@@ -1,0 +1,11 @@
+typealias Float Float32
+typealias OtherFloat Float64
+typealias Boolean Bool
+typealias InputVector Vector{Float}
+typealias OutputVector Vector{Float}
+typealias DeltaVector Vector{Float}
+typealias InputMatrix Matrix{Float}
+typealias OutputMatrix Matrix{Float}
+typealias DeltaMatrix Matrix{Float}
+typealias OutputList Vector{OutputVector}
+typealias OutputMatrixList Vector{OutputMatrix}
